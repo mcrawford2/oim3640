@@ -1,0 +1,35 @@
+# What I set up today
+- The notebooks section of my workspace, through "File" and "Add folder to workspace"
+
+# What I learned in Chapters 1 + 2
+Chapter 1
+- arithmetic operators: + - * /
+- integers (numbers with no fraction or decimal part) vs floating point numbers (numbers with a decimal point)
+- integer division: //, to divide integers and output integer
+- exponentation: **
+- expression: collection of operators and numbers
+- "round" function, "abs" absolute value function
+- function call: expression that calls a function, parenthesis are required
+- string: sequence of letters, + and * work with strings
+- "len" length function for the length of a string
+- typs: integer = int, floating point number = float, string = str
+- natural languages (evolved naturally, spoken) vs formal languages (designed by people for specific applications)
+
+Chapter 2
+- assignment statement: creates a variable. Name of the variable on the left, equals operator, and expression on the right
+- state diagram: shows what state each of the variables is in
+- variable naming rules: can't begin with a number, no punctuation except underscore, usually all lowercase, no keywords
+- must import some Python features
+- modules: collections of variables and functions
+- dot operator: goes between the name of the module and name of the variable when using a variable in a module
+- math functions: math.sqrt (computers square root), math.pow (raises one number to the power of another number)
+- statement: unit of code that has an affect but no value
+- evaluation: computing the value of an expression
+- execution: running the statement
+- print function: when evaluating more than one expression, only the most recent value is displayed. To display more than more value use the print function
+- argument: expression in parenthesis
+- errors: syntax error (structure of program), runtime error (no symtax error but something went wrong), semantic error (runs without generating error messages but did not do what was intended)
+
+# Things that feel unclear right now / Questions for next class
+- All of the concepts feel clear, but putting them into practice may be a little more difficult
+- No questions, just need practice
