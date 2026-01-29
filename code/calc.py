@@ -1,4 +1,4 @@
-import sys
+print (2+4)
 
+print (10-3)
 
-    sys.stdout.write('6'
