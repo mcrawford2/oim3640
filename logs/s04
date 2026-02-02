@@ -1,1 +1,16 @@
-cntl enter vs shift enter vs alt enter
+# What I learned
+- version control: the process of saving periodically and having different versions to refer back to
+- commit/push: commit is saving in GitHub desktop, push maakes saves visible on GitHub web.
+- programming language vs english: programming languages are more formal and alwats have meaning. english is faster evolving and can be more ambiguous. 
+- cntl enter vs shift enter vs alt enter
+- reiteration and fully reading error messages is important
+- types of values: int, float, str, bool (true/false)
+- variable = name referring to a value
+- expression = code that produces a value
+- non-obvous operators:
+    - // integer division
+    - % module (remainder)
+    - ** exponent
+
+# Challenges I faced
+- understanding and fixing some of the error messages from chapter 2
