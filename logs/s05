@@ -1,0 +1,28 @@
+# Review
+- int, float, str: types. 1 vs 1.0 vs '1'
+- module = mod: gives remainder after division
+- / vs //: / gives float result, // gives integer result
+- comparing variable names: depends on the purpose of the variable. x/i is good for simple or 
+    consecutive numbers. student_count/names is better for code that has larger meaning because
+    it is more descriptive
+- expression: a = 2, 1 + a, evaluates to 3 but does not do anything with it
+- statement: a = 2, print(1+a), prints the result, has a value
+
+# What I learned
+- recursive functions: functions that call themselves to solve smaller instances of the same problem
+- def (ground word for define): used to create a function in python
+- base case: condition to stop the recursive function
+- always write docstring for every function I create (""")
+- bool = boolean: checks whether expression is true or false
+- snake style name, not camel
+- cntl + /: comments or uncomments selected lines of code
+
+# Extra files used
+- recursive.py
+- s05 review.py
+- s05.py
+
+# Questions
+- when it is best to switch to command prompt or powershell instead of using the terminal 
+  in vs code?
+
