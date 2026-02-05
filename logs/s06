@@ -1,0 +1,17 @@
+# Review
+- variables, expressions, statements, types, operators
+- functions: def f(parameter):
+                """docstring"""
+                # function body
+- local variables and functions defined inside a function
+- print vs return
+- for loop: for i in range(n):
+
+# What I learned
+- for i in range (n, n): first n is where we start, second n is where we stop. if only one n, it's where we stop
+- \ = '
+- chapter 4 next class
+
+# Extra files
+- s06 review.py
+- pythontutor.com - visualizes code
