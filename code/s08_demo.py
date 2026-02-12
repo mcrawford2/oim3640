@@ -23,6 +23,17 @@ import math
 #    return (dx**2 + dy**2) ** 0.5
 
 
+#Decomposition
+#def circle_area(radius):
+#    import math
+#    return math.pi * radius ** 2
+
+#def ring_area(outer, inner):
+#    """Area of a ring (donut shape)."""
+#    return circle_area(outer) - circle_area(inner)
+#ring_area(5, 3)  # area between radius 5 and radius 3
+
+
 #Boolean
 def is_even(n):
     """Check if n is an even number."""
